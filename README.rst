@@ -25,6 +25,7 @@ File **main.py**
 File **my_module.py**
 
 .. code-block:: python
+
     def calculate(a, b):
         b = b + 2
         c = a+b
