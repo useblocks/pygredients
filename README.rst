@@ -3,8 +3,7 @@
 Pygredients
 ===========
 
-Pygredients collects the ingredients of a python application and traces the usage of data inside variables and
-function calls.
+Pygredients allows to follow data on its way through variables, functions and assignments of a python application.
 
 **This project is pre-alpha. So nothing really works right now and the project itself is under heavy development.**
 
