@@ -1,3 +1,5 @@
+.. image:: pygredients_logo.png
+
 Pygredients
 ===========
 
@@ -5,6 +7,7 @@ Pygredients collects the ingredients of a python application and traces the usag
 function calls.
 
 .. note::
+
    This project is pre-alpha. So nothing really works right now and the project itself is under heavy development.
 
 Example
