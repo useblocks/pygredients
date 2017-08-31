@@ -6,9 +6,7 @@ Pygredients
 Pygredients collects the ingredients of a python application and traces the usage of data inside variables and
 function calls.
 
-.. note::
-
-   This project is pre-alpha. So nothing really works right now and the project itself is under heavy development.
+**This project is pre-alpha. So nothing really works right now and the project itself is under heavy development.**
 
 Example
 -------
